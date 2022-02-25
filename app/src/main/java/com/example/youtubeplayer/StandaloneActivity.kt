@@ -15,6 +15,9 @@ class StandaloneActivity : AppCompatActivity(), View.OnClickListener {
         setContentView(R.layout.activity_standalone)
         btnPlayVideo.setOnClickListener(this)
         btnPlaylist.setOnClickListener(this)
+        btnPlaylist.setOnClickListener(this)
+        btnPlaylist.setOnClickListener(this)
+
 
 //        btnPlayVideo.setOnClickListener(object : View.OnClickListener{
 //            override fun onClick(v: View?) {
